@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "2c4e6f4e-0276-47cb-a486-1dda5ed05879": {
+      "label": "Instructions Before Stuttering",
+      "is_offline": false,
+      "file_url": "https://ia600204.us.archive.org/15/items/jjjjjerome-ellis/JJJJJerome%20Ellis_%20.wav",
+      "duration": 93,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "JJJJJerome Ellis performs Instructions Before Stuttering",
+  "created_at": "2025-03-24T21:57:36.194Z",
+  "created_by": "sarah-freeman",
+  "updated_at": "2025-03-24T21:57:36.194Z",
+  "updated_by": "sarah-freeman"
+}
