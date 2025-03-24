@@ -1,5 +1,615 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "74562659-dd36-48f4-9c4b-0ce08046ec56"
+    },
+    {
+      "start_time": 2,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "link",
+          "url": "https://sarah-freeman.github.io/dysfluentannotation/pages/clearing-1/",
+          "children": [
+            {
+              "text": "Clearing 1"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "28bad64c-fe21-4ef7-90b9-afe1fb88b699"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jerome Ellis"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b326212e-fc6b-47e4-8b79-258802b39dbe"
+    },
+    {
+      "start_time": 10,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reading"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1ae0c211-bece-47ba-a218-01c8172001d3"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Instructions"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c9f66122-0ec2-4457-975f-9dfcd5ee6ef0"
+    },
+    {
+      "start_time": 13,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clearing 2"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "15b58a4c-6733-42ca-a125-63e24491d3c3"
+    },
+    {
+      "start_time": 20,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Before"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8bff8bb3-f018-473d-a740-853aa91c93fa"
+    },
+    {
+      "start_time": 21,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clearing 3"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "64c1b435-cf4e-4699-96cd-1ba2c2de672d"
+    },
+    {
+      "start_time": 27,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stuttering"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8c8dd374-ef1e-4249-8f15-b1dec33255e7"
+    },
+    {
+      "start_time": 28,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a0fb384d-d1c5-4f7a-a388-89e1d4c0494b"
+    },
+    {
+      "start_time": 31,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tread where the name"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "61322115-db17-4e12-88d5-98a863bf0106"
+    },
+    {
+      "start_time": 33,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clearing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7a4439c4-4c4d-4c60-abba-6e76f2495056"
+    },
+    {
+      "start_time": 34,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "has"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "15025aca-d840-4939-a1ff-bd0a80a7cc2b"
+    },
+    {
+      "start_time": 34,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clearing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1d42089b-ce76-46eb-ba08-481a373b1410"
+    },
+    {
+      "start_time": 43,
+      "end_time": 43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "prepared"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ffa8b164-4924-4d49-894f-6b9f7a1c305d"
+    },
+    {
+      "start_time": 44,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cdcc1fc7-af8d-4785-bd45-568d6461bd5f"
+    },
+    {
+      "start_time": 45,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a full name full"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ee491b67-19e1-4cbc-befb-baffe0ecadef"
+    },
+    {
+      "start_time": 47,
+      "end_time": 47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "40dd4c6f-d9cf-42bc-9941-7328980e8970"
+    },
+    {
+      "start_time": 48,
+      "end_time": 48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "of desire"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b78db8fc-8925-4a39-bcfb-a337cd0cab94"
+    },
+    {
+      "start_time": 49,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "62eafd93-7f2d-44c4-b6d6-7ae1a5a22da0"
+    },
+    {
+      "start_time": 51,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "clay like plenty"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e687eadb-339f-467e-bd91-7428a9222e18"
+    },
+    {
+      "start_time": 53,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "pause"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4c0494aa-cc0b-4cb6-8370-c4789267efd9"
+    },
+    {
+      "start_time": 55,
+      "end_time": 57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "love is sensitive / in the space of crying [short pause in middle]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "be0def36-f944-4eb8-ae1b-77804357452f"
+    },
+    {
+      "start_time": 58,
+      "end_time": 59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "pause"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5d59745c-1291-405c-9626-ec3c22684d11"
+    },
+    {
+      "start_time": 60,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the name goes ahead "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cbfb4246-1f59-40c8-9352-6fac2be652a1"
+    },
+    {
+      "start_time": 62,
+      "end_time": 69,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "clearing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e2bf032c-3ef2-43d0-a4d5-3f6aebb23e5f"
+    },
+    {
+      "start_time": 70,
+      "end_time": 71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "to prepare you"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "15e003ba-f928-4654-a315-daeec5e926b5"
+    },
+    {
+      "start_time": 72,
+      "end_time": 72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "pause"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "17ffc970-5414-4c2e-bb4d-d88ca9d51e58"
+    },
+    {
+      "start_time": 73,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "grasp the vessel / with both hands"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "16c4b952-d994-4bd9-9a28-b3fb6f431f83"
+    },
+    {
+      "start_time": 76,
+      "end_time": 76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "pause"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bcaa5a03-4c1a-47fa-abbf-0679203c0dc6"
+    },
+    {
+      "start_time": 77,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and / walk slow"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9791a944-b6dc-425b-b6d6-75183e255e41"
+    },
+    {
+      "start_time": 80,
+      "end_time": 81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "pause"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "83e68f04-ba40-457a-a240-a898900e160d"
+    },
+    {
+      "start_time": 82,
+      "end_time": 83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a road of red "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a2bd08b4-f316-40a0-9e5c-856a7c2ebbf6"
+    },
+    {
+      "start_time": 84,
+      "end_time": 94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "clearing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "73c653e7-3a3a-4037-b799-7d30227ddb25"
+    },
+    {
+      "start_time": 95,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "clover"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e34781cd-6352-489f-9d65-5334bb7cdfd2"
+    },
+    {
+      "start_time": 96,
+      "end_time": 96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "pause"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "370754d4-8ec1-4e98-8dc0-ba1ff2f55b23"
+    },
+    {
+      "start_time": 97,
+      "end_time": 98,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "opens"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b202e737-de46-4330-8c92-78a4c2e664c8"
+    },
+    {
+      "start_time": 99,
+      "end_time": 102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "pause"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5d9dc718-5a79-4dc7-a838-569f0a37d657"
+    }
+  ],
   "set": "Default",
   "event_id": "26c1f0df-43cb-4f41-9e50-daec802cb3e0",
   "source_id": "2c4e6f4e-0276-47cb-a486-1dda5ed05879"
