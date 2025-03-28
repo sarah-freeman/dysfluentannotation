@@ -17,8 +17,16 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "image",
-      "url": "https://ia601002.us.archive.org/20/items/884a2c83285c45fea846e4e78971c64f/884A2C83-285C-45FE-A846-E4E78971C64F.jpeg",
+      "url": "https://ia800108.us.archive.org/0/items/untitled-design_20250328_2253/Untitled%20design.png",
       "size": "medium",
       "children": [
         {
@@ -43,6 +51,6 @@
   "slug": "clearing-1",
   "created_at": "2025-03-24T21:44:02.960Z",
   "created_by": "sarah-freeman",
-  "updated_at": "2025-03-26T16:48:48.570Z",
+  "updated_at": "2025-03-28T23:07:08.989Z",
   "updated_by": "sarah-freeman"
 }
