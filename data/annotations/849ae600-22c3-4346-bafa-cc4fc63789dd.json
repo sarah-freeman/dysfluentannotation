@@ -1,23 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 2,
-      "end_time": 7,
-      "annotation": [
-        {
-          "type": "link",
-          "url": "https://sarah-freeman.github.io/dysfluentannotation/pages/clearing-1/",
-          "children": [
-            {
-              "text": "Clearing 1"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "28bad64c-fe21-4ef7-90b9-afe1fb88b699"
-    },
-    {
       "start_time": 8,
       "end_time": 9,
       "annotation": [
