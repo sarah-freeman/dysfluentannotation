@@ -1,0 +1,40 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://ia600708.us.archive.org/24/items/clearing3-2_202503/clearing3-2.png",
+      "size": "full",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Clearings 4-5",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "clearings-4-5",
+  "created_at": "2025-03-29T02:30:25.376Z",
+  "created_by": "sarah-freeman",
+  "updated_at": "2025-03-29T02:30:25.376Z",
+  "updated_by": "sarah-freeman"
+}
