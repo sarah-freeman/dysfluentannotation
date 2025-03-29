@@ -608,6 +608,602 @@
       ],
       "tags": [],
       "uuid": "5d9dc718-5a79-4dc7-a838-569f0a37d657"
+    },
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "658d271d-e403-40f8-87d6-89d53792d7ec"
+    },
+    {
+      "start_time": 2,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "link",
+          "url": "https://sarah-freeman.github.io/dysfluentannotation/pages/clearing-1/",
+          "children": [
+            {
+              "text": "Clearing 1"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Identification"
+        }
+      ],
+      "uuid": "7717eb91-41cc-414d-a01e-65ea18ee0064"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jerome Ellis"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "a276fab1-aa9b-48b6-aba2-621b75160b4d"
+    },
+    {
+      "start_time": 10,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reading"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "b5551092-ef52-4499-ac27-8f283d8be2f6"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Instructions"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "74b84594-df12-4803-a877-7cd771ce8d91"
+    },
+    {
+      "start_time": 13,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "link",
+          "url": "https://sarah-freeman.github.io/dysfluentannotation/pages/clearings-2-3/",
+          "children": [
+            {
+              "text": "Clearing 2"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Identification"
+        }
+      ],
+      "uuid": "59e3937f-0079-462f-a481-1d5c0dfccfae"
+    },
+    {
+      "start_time": 20,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Before"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "981b0245-4638-43a1-a855-a49098f38f64"
+    },
+    {
+      "start_time": 21,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "link",
+          "url": "https://sarah-freeman.github.io/dysfluentannotation/pages/clearings-2-3/",
+          "children": [
+            {
+              "text": "Clearing 3"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Identification"
+        }
+      ],
+      "uuid": "03cb8911-bab7-4116-b75d-f5ae1c41379d"
+    },
+    {
+      "start_time": 27,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stuttering"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "482b6559-4794-4522-9ea1-e947a80d637d"
+    },
+    {
+      "start_time": 31,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tread where the name"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "587d6260-4bbc-4f1e-a3bc-def7a9fe8571"
+    },
+    {
+      "start_time": 33,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "link",
+          "url": "https://sarah-freeman.github.io/dysfluentannotation/pages/clearings-4-5/",
+          "children": [
+            {
+              "text": "Clearing 4"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Identification"
+        }
+      ],
+      "uuid": "bd2d4c0e-a7f8-4f99-ba9e-601329693551"
+    },
+    {
+      "start_time": 34,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "has"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "d381a5b3-1b49-41f6-8b30-eac23a2be68e"
+    },
+    {
+      "start_time": 34,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "link",
+          "url": "https://sarah-freeman.github.io/dysfluentannotation/pages/clearings-4-5/",
+          "children": [
+            {
+              "text": "Clearing 5"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Identification"
+        }
+      ],
+      "uuid": "bf3a5afa-9082-42eb-8a3f-b578b2402e57"
+    },
+    {
+      "start_time": 43,
+      "end_time": 43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "prepared"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "f1f4effa-9c42-4cf4-b5d9-679d18d5594b"
+    },
+    {
+      "start_time": 45,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a full name full"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "1b63eb72-7044-4cdd-9ee2-947f58192762"
+    },
+    {
+      "start_time": 47,
+      "end_time": 47,
+      "annotation": [
+        {
+          "type": "link",
+          "url": "https://sarah-freeman.github.io/dysfluentannotation/pages/clearing-6/ ",
+          "children": [
+            {
+              "text": "Clearing 6"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Identification"
+        }
+      ],
+      "uuid": "2acca17b-0078-45c7-8cef-59909076255f"
+    },
+    {
+      "start_time": 48,
+      "end_time": 48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "of desire"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "f47f07a0-24ce-45d0-ae27-023b53f33738"
+    },
+    {
+      "start_time": 51,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "clay like plenty"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "aee30d18-0d6c-431d-9cd2-ee3255d0229c"
+    },
+    {
+      "start_time": 55,
+      "end_time": 57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "love is sensitive\nin the space of crying"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "53a40c83-9b15-47e1-ae28-4044d8dd9efb"
+    },
+    {
+      "start_time": 60,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the name goes ahead "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "9cb18893-2d7a-4e32-8613-ad62325a83fe"
+    },
+    {
+      "start_time": 62,
+      "end_time": 69,
+      "annotation": [
+        {
+          "type": "link",
+          "url": "https://sarah-freeman.github.io/dysfluentannotation/pages/clearing-7/",
+          "children": [
+            {
+              "text": "Clearing 7"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Identification"
+        }
+      ],
+      "uuid": "d81f6e13-becb-4f52-a08d-819e3459e4c3"
+    },
+    {
+      "start_time": 70,
+      "end_time": 71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "to prepare you"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "bb319bf0-dc7f-454c-826b-c5d08198e8f7"
+    },
+    {
+      "start_time": 73,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "grasp the vessel\nwith both hands"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "af8ca061-0531-4156-bbd9-0637c53f515a"
+    },
+    {
+      "start_time": 77,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and\nwalk slow"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "116059c6-4c35-4cea-b4d8-d91c718ed31a"
+    },
+    {
+      "start_time": 82,
+      "end_time": 83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a road of red "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "6115dbf9-f408-410b-a559-281e54378896"
+    },
+    {
+      "start_time": 84,
+      "end_time": 94,
+      "annotation": [
+        {
+          "type": "link",
+          "url": "https://sarah-freeman.github.io/dysfluentannotation/pages/clearing-8/",
+          "children": [
+            {
+              "text": "Clearing 8"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Identification"
+        }
+      ],
+      "uuid": "6a5d0df4-0334-47f0-b3db-51056376454a"
+    },
+    {
+      "start_time": 95,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "clover"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "0080e47c-4b1d-46a7-890f-c58678f442cf"
+    },
+    {
+      "start_time": 97,
+      "end_time": 98,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "opens"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        }
+      ],
+      "uuid": "66d71a49-88a1-44d9-8b62-d0045b4db3cc"
     }
   ],
   "set": "Default",
