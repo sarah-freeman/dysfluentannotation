@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 34,
-      "end_time": 42,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Clearing"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "1d42089b-ce76-46eb-ba08-481a373b1410"
-    },
-    {
       "start_time": 43,
       "end_time": 43,
       "annotation": [
