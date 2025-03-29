@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 82,
-      "end_time": 83,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "a road of red "
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "a2bd08b4-f316-40a0-9e5c-856a7c2ebbf6"
-    },
-    {
       "start_time": 84,
       "end_time": 94,
       "annotation": [
