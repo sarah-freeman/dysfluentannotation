@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 51,
-      "end_time": 52,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "clay like plenty"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "e687eadb-339f-467e-bd91-7428a9222e18"
-    },
-    {
       "start_time": 53,
       "end_time": 54,
       "annotation": [
