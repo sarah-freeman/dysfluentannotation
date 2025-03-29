@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 70,
-      "end_time": 71,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "to prepare you"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "15e003ba-f928-4654-a315-daeec5e926b5"
-    },
-    {
       "start_time": 72,
       "end_time": 72,
       "annotation": [
