@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 27,
-      "end_time": 27,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Stuttering"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "8c8dd374-ef1e-4249-8f15-b1dec33255e7"
-    },
-    {
       "start_time": 28,
       "end_time": 30,
       "annotation": [
