@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 48,
-      "end_time": 48,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "of desire"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "b78db8fc-8925-4a39-bcfb-a337cd0cab94"
-    },
-    {
       "start_time": 49,
       "end_time": 50,
       "annotation": [
