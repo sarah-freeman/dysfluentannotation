@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 55,
-      "end_time": 57,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "love is sensitive / in the space of crying [short pause in middle]"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "be0def36-f944-4eb8-ae1b-77804357452f"
-    },
-    {
       "start_time": 58,
       "end_time": 59,
       "annotation": [
