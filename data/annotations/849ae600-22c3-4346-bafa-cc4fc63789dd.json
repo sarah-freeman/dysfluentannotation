@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 8,
-      "end_time": 9,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Jerome Ellis"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "b326212e-fc6b-47e4-8b79-258802b39dbe"
-    },
-    {
       "start_time": 10,
       "end_time": 10,
       "annotation": [
