@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 31,
-      "end_time": 32,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Tread where the name"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "61322115-db17-4e12-88d5-98a863bf0106"
-    },
-    {
       "start_time": 33,
       "end_time": 33,
       "annotation": [
