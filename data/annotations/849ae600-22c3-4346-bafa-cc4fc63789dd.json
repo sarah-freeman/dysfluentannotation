@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 77,
-      "end_time": 79,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "and / walk slow"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "9791a944-b6dc-425b-b6d6-75183e255e41"
-    },
-    {
       "start_time": 80,
       "end_time": 81,
       "annotation": [
