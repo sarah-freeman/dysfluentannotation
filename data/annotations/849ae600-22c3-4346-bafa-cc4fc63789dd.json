@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 73,
-      "end_time": 74,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "grasp the vessel / with both hands"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "16c4b952-d994-4bd9-9a28-b3fb6f431f83"
-    },
-    {
       "start_time": 76,
       "end_time": 76,
       "annotation": [
